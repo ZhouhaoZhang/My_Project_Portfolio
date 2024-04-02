@@ -97,7 +97,7 @@ Introduce me to more students with good character like you, Zhang. I'll gather y
 * Team trainning: This slide serves as a technical guide for new team members. It's designed to instruct newcomers on essential topics, including image processing, 3D vision, as well as providing a brief introduction to Linux and ROS.
 
 <div align="center">
-<img src="./images/trainning.jpg" width=55% /><img src="./images/RM2.jpg" width=43% />
+<img src="./images/trainning.jpg" width=55% /><img src="./images/RM2.JPG" width=43% />
 </div>
 
 ## Soft Robotics Lab 🐙
