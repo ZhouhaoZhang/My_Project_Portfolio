@@ -1,6 +1,6 @@
 # My Project Portfolio
 ## About Me 🤓
-I am Zhouhao ZHANG, a final-year undergraduate majoring in automation in Beihang University. I am now completing my graduation project about surgical robot policy learning under the remote guidance of Professor Dou Qi of CUHK.
+I am Zhouhao ZHANG, a final-year undergraduate majoring in automation in Beihang University.
 
 This portfolio showcases a selection of projects I undertook during my undergraduate studies. The majority of these projects were completed independently, driven by my own curiosity and enthusiasm, without the guidance of a mentor. They span a wide range of subjects, including 3D computer vision, traditional image processing, deep learning, intelligent algorithms,robotics and SLAM.
 
